@@ -1,3 +1,3 @@
 # MVC-Database-Pull
-This is a program written in Java that is design in a Model-View-Controller Framework.
-The program pulls information from a database and displays in a simple UI that was created in Jframe. 
+This is a program written in Java that is designed in a Model-View-Controller Framework.
+The program pulls Vendor information from a database and displays it in a simple UI window that was created in Jframe. 
